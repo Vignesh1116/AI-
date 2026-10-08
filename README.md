@@ -33,7 +33,17 @@ A structured, practical repository documenting the daily journey through Artific
 
 ---
 
+### 🌳 Day 4: Decision Trees & Model Interpretability
+* [Part 1: Introduction to Decision Trees](file:///d:/Vignesh%20repositories/AI%20-%20Learning/Day%204/Part%201.md) — Intuition, rule-based learning, anatomy (Root, Branch, Leaf), Logistic Regression vs Decision Trees.
+* [Part 2: How Decision Trees Learn — Splits & Impurity](file:///d:/Vignesh%20repositories/AI%20-%20Learning/Day%204/Part%202.md) — Candidate splits, node impurity, Gini Impurity introduction, Gini vs Accuracy.
+* [Part 3: Gini Impurity — Formula & Step-by-Step Calculation](file:///d:/Vignesh%20repositories/AI%20-%20Learning/Day%204/Part%203.md) — Mathematical formula, step-by-step arithmetic proofs, weighted Gini impurity across splits.
+* [Part 4: Tree Depth, Overfitting & Hyperparameter Tuning](file:///d:/Vignesh%20repositories/AI%20-%20Learning/Day%204/Part%204.md) — Tree depth, overfitting risks, pre-pruning with `max_depth`, `min_samples_split`, and `min_samples_leaf`.
+* [Part 5: Model Evaluation & Tree Visualization](file:///d:/Vignesh%20repositories/AI%20-%20Learning/Day%204/Part%205.md) — White-box interpretability, plotting trees with `plot_tree`, node anatomy, semantic color mapping.
+* [Part 6: End-to-End Decision Tree Mini-Project](file:///d:/Vignesh%20repositories/AI%20-%20Learning/Day%204/Part%206.md) — Full end-to-end executable student pass/fail prediction project, inference, and master interview Q&A.
+
+---
+
 ## 🛠️ Tech Stack & Prerequisites
 * **Language:** Python 3.9+
-* **Libraries:** `scikit-learn`, `numpy`
-* **Concepts:** Supervised Learning, Linear Regression, Logistic Regression, Model Evaluation Metrics.
+* **Libraries:** `scikit-learn`, `matplotlib`, `numpy`
+* **Concepts:** Supervised Learning, Linear Regression, Logistic Regression, Decision Trees, Model Evaluation Metrics.
